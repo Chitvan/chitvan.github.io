@@ -1,0 +1,48 @@
+body {
+	width: 700px;
+	padding: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #ffffff;
+	border: 2px dashed #888;
+}
+
+body {
+	font-family: "Comic Sans MS", serif;
+	font-size: 17px;
+	line-height: 25px;
+	color: #056ea4;
+	text-align: center;
+}
+
+a {
+	color: #d26241;
+	text-decoration: none;
+	align-self: flex-start;
+}
+
+ul {
+	list-style: disc;
+	
+	text-align: left;
+}
+
+h1 {
+	color: #d26241;
+	font-size: 48px;
+}
+
+h2 {
+	text-transform: uppercase;
+	font-size: 20px;
+}
+
+h3 {
+	color: #d26241;
+	padding-top: 10px;
+	text-align: left;
+}
+
+div {
+	text-align: left;
+}
